@@ -1,0 +1,18 @@
+{
+	"goods": [
+		{
+			"id": 0,
+			"title": "Title-1",
+			"price": 10,
+			"image": "https://avatars.githubusercontent.com/u/94986789?v=4",
+			"category": "category-1"
+		},
+		{
+			"id": 1,
+			"title": "Title-2",
+			"price": 20,
+			"image": "https://avatars.githubusercontent.com/u/94986789?v=4",
+			"category": "category-1"
+		}
+	]
+}
