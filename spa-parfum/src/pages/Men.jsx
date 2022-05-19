@@ -1,6 +1,6 @@
 import React, { useEffect, useCallback, useState } from 'react';
 
-import GoodsItem from '../Components/GoodsItem';
+import GoodsItem from '../components/GoodsItem';
 
 const Men = () => {
   const [{ loading, success, error }, setAlerts] = useState({ loading: true });
